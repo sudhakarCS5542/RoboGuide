@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/ghost4j-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/itext-2.1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/jai_imageio.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/jna.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/jul-to-slf4j-1.7.13.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/lept4j-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/logback-classic-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/logback-core-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/rococoa-core-0.5.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/slf4j-api-1.7.13.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tess4J-2/lib/xmlgraphics-commons-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
